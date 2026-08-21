@@ -4,5 +4,5 @@ A responsive, static HTML portfolio designed for deployment on GitHub Pages or a
 
 ## Run on any web
 
-Open `index.html` in a browser.
+Open `https://givenkhathidejnr-hue.github.io/my-portfolio/` in a browser.
 
