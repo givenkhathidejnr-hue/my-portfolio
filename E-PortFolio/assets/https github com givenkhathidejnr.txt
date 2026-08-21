@@ -1,0 +1,4 @@
+https://github.com/givenkhathidejnr-hue/ARM_CORTEX_M7_KERNEL
+https://github.com/givenkhathidejnr-hue/EEE4113F_DESIGN_DAQ_SUBSYSTEM
+https://github.com/givenkhathidejnr-hue/STM32F446RE_DRIVERS
+https://github.com/givenkhathidejnr-hue/MICROMOUSE_PROJECT
