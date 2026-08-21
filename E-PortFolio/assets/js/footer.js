@@ -1,1 +1,0 @@
-document.write(`<footer class="footer"><div class="shell"><div><strong>Simphiwe Kubheka</strong><br><span>Embedded systems · firmware · real-time software</span></div><div><a href="mailto:simphiwekubhekajnr@outlook.com">simphiwekubhekajnr@outlook.com</a><br>Cape Town, South Africa</div></div></footer>`)
