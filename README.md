@@ -1,23 +1,41 @@
-# Simphiwe Kubheka ePortfolio
+# Simphiwe Kubheka | Engineering Portfolio
 
-A responsive, static HTML portfolio designed for deployment on GitHub Pages or any static host. No build step or server is required.
+A professional ePortfolio for Simphiwe Kubheka, a final-year Electrical and Computer Engineering student at the University of Cape Town.
 
-## Run locally
+**Live site:** https://givenkhathidejnr-hue.github.io/my-portfolio/
 
-Open `index.html` in a browser. For the closest deployment-like behaviour, serve this folder using any local static-file server.
+## Focus
 
-## Deploy with GitHub Pages
+Embedded systems, firmware development, real-time software, and cyber-physical systems.
 
-1. Create a GitHub repository and upload the contents of this folder to its root.
-2. In the repository, open **Settings → Pages**.
-3. Under **Build and deployment**, select **Deploy from a branch**, choose `main` and the `/ (root)` folder, then save.
-4. GitHub will publish the site at the URL shown in that page.
+This portfolio presents a progression from low-level hardware interaction and STM32 peripheral drivers to real-time kernels, low-power data acquisition, autonomous control, and distributed embedded communication.
 
-## Personalise before publishing
+## Featured projects
 
-- Replace the headshot placeholder on `index.html` with an image in `assets/images/`.
-- Replace each bracketed project-link note with actual public GitHub, report, video, or demo links when available.
-- Confirm whether `assets/documents/Simphiwe-Kubheka-CV.pdf` is the version you wish to distribute publicly.
-- Add real LinkedIn / GitHub URLs only after confirming them.
+- **ARM Cortex-M7 Real-Time Kernel**  
+  A lightweight preemptive RTOS kernel with priority scheduling, synchronisation mechanisms, task notifications, and memory-safety considerations.
 
-All content in this version is grounded in the supplied CV and ePortfolio material; placeholders are deliberately marked where assets or URLs were not supplied.
+- **STM32F446 Bare-Metal Driver Library**  
+  Register-level peripheral drivers developed without STM32 HAL/LL dependencies, including startup configuration, clocks, GPIO, interrupts, timers, DMA, and debugging workflows.
+
+- **Low-Power Optical Data Acquisition System**  
+  Autonomous STM32-based firmware for optical measurements, including scheduled sampling, data logging, power management, watchdog recovery, and fault handling.
+
+- **Autonomous Micromouse Navigation**  
+  Maze exploration and path planning using DFS and BFS, combined with PID control and sensor fusion for physical navigation.
+
+- **Secure Peer-to-Peer Embedded Communication**  
+  Final-year research into secure, scalable communication for resource-constrained embedded systems using an ESP32-based prototype.
+
+## Portfolio sections
+
+- Home
+- Biography and engineering identity
+- Curriculum vitae
+- Projects and technical artefacts
+- Experience and additional technical exposure
+
+## Contact
+
+- Email: simphiwekubhekajnr@outlook.com
+- GitHub: https://github.com/givenkhathidejnr-hue
